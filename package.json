@@ -1,0 +1,23 @@
+{
+  "name": "studywebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majinquan123/studyWebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majinquan123/studyWebpack/issues"
+  },
+  "homepage": "https://github.com/majinquan123/studyWebpack#readme",
+  "devDependencies": {
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
