@@ -1,0 +1,7 @@
+{
+  // https://blog.csdn.net/weixin_43190355/article/details/100329605
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "plugins": []
+}

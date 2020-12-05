@@ -17,7 +17,15 @@
   },
   "homepage": "https://github.com/majinquan123/studyWebpack#readme",
   "devDependencies": {
-    "webpack": "^5.9.0",
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "browserify": "^17.0.0",
+    "css-loader": "^5.0.1",
+    "less": "^3.12.2",
+    "less-loader": "^7.1.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^3.8.1",
     "webpack-cli": "^4.2.0"
   }
 }
